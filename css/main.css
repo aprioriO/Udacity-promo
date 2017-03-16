@@ -57,3 +57,11 @@ p {
 .partners img {
   width: 166px;
 }
+
+.enroll {
+  background-color: #f4f4ef;
+  padding: 20px 40px 40px;
+}
+.enroll h2 {
+  text-align: center;
+}
