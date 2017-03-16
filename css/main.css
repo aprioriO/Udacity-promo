@@ -4,7 +4,16 @@ body {
 
 .content {
   width: 600px;
-  background-color: white;
-  height: 500px;
   margin: 0 auto;
+}
+
+main {
+  background-color: white;
+  height: 500px; /* temporary */
+}
+
+.logo {
+  display: block;
+  margin: 20px auto 10px;
+  width: 152px;
 }
