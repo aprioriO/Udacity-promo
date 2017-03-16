@@ -1,5 +1,6 @@
 body {
   background-color: #FAFBFC;
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
 .content {
@@ -20,4 +21,12 @@ main {
 
 .top-image {
   width: 100%;
+  margin-bottom: 25px;
+}
+
+h1 {
+  color: #525c65;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
 }
