@@ -26,7 +26,6 @@ body {
 
 main {
   background-color: white;
-  height: 500px; /* temporary */
 }
 
 .logo {
@@ -53,4 +52,8 @@ h1 {
 p {
   font-size: 14px;
   line-height: 24px;
+}
+
+.partners img {
+  width: 166px;
 }
