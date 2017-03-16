@@ -85,3 +85,9 @@ p {
   border-radius: 4px;
   font-size: 13px;
 }
+
+.quote-marks {
+  display: block;
+  margin: 60px auto;
+  width: 38px;
+}
