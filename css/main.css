@@ -3,7 +3,7 @@ body {
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
-.content {
+.container {
   width: 600px;
   margin: 0 auto;
 }
@@ -15,18 +15,26 @@ main {
 
 .logo {
   display: block;
-  margin: 20px auto 10px;
+  margin: 20px auto 25px;
   width: 152px;
 }
 
 .top-image {
   width: 100%;
-  margin-bottom: 25px;
+}
+
+.content {
+  padding: 20px 40px;
+  color: #525c65;
 }
 
 h1 {
-  color: #525c65;
+  margin: 0;
   font-size: 20px;
   line-height: 30px;
-  text-align: center;
+}
+
+p {
+  font-size: 14px;
+  line-height: 24px;
 }
