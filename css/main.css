@@ -92,17 +92,17 @@ p {
   width: 38px;
 }
 
-.quotation {
+.quotation, .byline {
   font-style: italic;
   text-align: center;
+}
+
+.quotation {
   font-size: 18px;
   line-height: 23px;
   padding: 0 30px 10px;
 }
 
 .byline {
-  font-style: italic;
-  text-align: center;
   padding-bottom: 50px;
-
 }
