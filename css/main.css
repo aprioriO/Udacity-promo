@@ -93,7 +93,8 @@ p {
   width: 38px;
 }
 
-.quotation, .byline {
+.quotation,
+.byline {
   font-style: italic;
   text-align: center;
 }
@@ -112,13 +113,15 @@ footer {
   padding-bottom: 40px;
 }
 
-footer, footer p {
+footer,
+footer p {
   text-align: center;
   font-size: 12px;
   color: #b7bdc1;
 }
 
-.app-buttons, .social-buttons {
+.app-buttons,
+.social-buttons {
   line-height: 0;
 }
 
