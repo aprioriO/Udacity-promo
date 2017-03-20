@@ -147,3 +147,11 @@ footer p {
 footer a {
   color: inherit;
 }
+
+.demand {
+  color: white;
+  background-color: #7d97ad;
+  font-size: 14px;
+  padding: 10px 0;
+  text-align: center;
+}
