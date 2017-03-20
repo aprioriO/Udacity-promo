@@ -107,3 +107,17 @@ p {
 .byline {
   padding-bottom: 50px;
 }
+
+.app-buttons {
+  padding: 40px 0;
+  width: 520px;
+  margin: auto;
+  border-bottom: 1px solid #e5ebef;
+  text-align: center;
+  line-height: 0;
+}
+
+.app-buttons img {
+  width: 120px;
+  margin: 0 5px;
+}
