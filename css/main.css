@@ -14,8 +14,15 @@
   src: url(/fonts/Open_Sans/OpenSans-Semibold.ttf);
 }
 
-body {
+body,
+footer {
   background-color: #FAFBFC;
+}
+
+body {
+  max-width: 700px;
+  margin-left: auto;
+  margin-right: auto;
   font-family: 'Open Sans', Helvetica, Arial, sans-serif;
 }
 
@@ -111,6 +118,7 @@ p {
 
 footer {
   padding-bottom: 40px;
+  margin-top: 6px;
 }
 
 footer,
@@ -126,7 +134,7 @@ footer p {
 }
 
 .app-buttons {
-  padding: 40px 0;
+  padding: 30px 0;
   width: 520px;
   margin: auto;
   border-bottom: 1px solid #e5ebef;
