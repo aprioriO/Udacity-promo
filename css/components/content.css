@@ -1,0 +1,70 @@
+.content {
+  padding: 20px 40px;
+  color: #525c65;
+  box-shadow: 0 5px 6px #ccc;
+}
+
+h1 {
+  margin: 0;
+  font-size: 20px;
+  line-height: 30px;
+}
+
+p {
+  font-size: 14px;
+  line-height: 24px;
+}
+
+.partners img {
+  width: 166px;
+}
+
+.enroll {
+  background-color: #f4f4ef;
+  padding: 20px 40px 40px;
+}
+.enroll h2 {
+  text-align: center;
+  font-size: 18px;
+  line-height: 24px;
+  margin-bottom: 24px;
+}
+.enroll a {
+  display: block;
+  margin: auto;
+  padding: 10px;
+  width: 220px;
+
+  color: white;
+  background-color: #01b3e3;
+
+  text-align: center;
+  text-decoration: none;
+  font-weight: 400;
+  letter-spacing: 2px;
+
+  border-radius: 4px;
+  font-size: 13px;
+}
+
+.quote-marks {
+  display: block;
+  margin: 60px auto 30px;
+  width: 38px;
+}
+
+.quotation,
+.byline {
+  font-style: italic;
+  text-align: center;
+}
+
+.quotation {
+  font-size: 18px;
+  line-height: 23px;
+  padding: 0 30px 10px;
+}
+
+.byline {
+  padding-bottom: 50px;
+}

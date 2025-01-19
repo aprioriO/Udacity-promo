@@ -1,0 +1,49 @@
+footer {
+  padding-bottom: 40px;
+  margin-top: 6px;
+}
+
+footer,
+footer p {
+  text-align: center;
+  font-size: 12px;
+  color: #b7bdc1;
+}
+
+.app-buttons,
+.social-buttons {
+  line-height: 0;
+}
+
+.app-buttons {
+  padding: 30px 0;
+  width: 520px;
+  margin: auto;
+  border-bottom: 1px solid #e5ebef;
+}
+
+.app-buttons img {
+  width: 120px;
+  margin: 0 5px;
+}
+
+.social-buttons {
+  padding: 35px 0;
+}
+
+.social-buttons img {
+  width: 26px;
+  margin: 0 13px;
+}
+
+footer a {
+  color: inherit;
+}
+
+.demand {
+  color: white;
+  background-color: #7d97ad;
+  font-size: 14px;
+  padding: 10px 0;
+  text-align: center;
+}
